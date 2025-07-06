@@ -19,3 +19,6 @@
 - Use `System.out.println` to print output.
 - Compile with `javac HelloWorld.java`.
 - Run with `java HelloWorld`.
+
+## Importence of Java
+-Java  is a versatile and widely used programming language that's important because it allows developers to create applications that can run on many different types of devices (like computers, phones, and smart TVs) and in different environments (like web servers and cloud systems). Without Java there would have mostly been no websites or apps.
